@@ -21,7 +21,7 @@ def raiz (a, b):
     return a ** (1/b)
 
 def porcen (a, b):
-    return (a * b) / 100
+    return (a / b) * 100
 
 def promedio (a, b):
     return (a + b) / 2
