@@ -1,3 +1,4 @@
+
 def menu_de_cafeteria():
     print("bienvenido a la cafeteria desordenada que desea ordenar?")
     print("1. cafe")
@@ -19,3 +20,15 @@ def menu_de_cafeteria():
     menu_de_cafeteria()
 
 menu_de_cafeteria()
+
+def mostrar_menu():
+    print("bienvenidos a la cafeteria")
+    print("1. cafe - 2k")
+    print("2. postre del dia - 5k")
+    print("3. agua  - 1k")
+    print("4. brownie  - 6k")
+    print("5. finalizar compra")
+
+
+
+mostrar_menu()
