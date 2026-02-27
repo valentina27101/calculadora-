@@ -1,4 +1,4 @@
-def mostrar_menu():
+def mostrar_menu(Maryuris):
     print("bienvenidos a la cafeteria")
     print("1. cafe - 2k")
     print("2. postre del dia - 5k")
