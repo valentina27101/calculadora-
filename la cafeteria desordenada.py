@@ -7,6 +7,7 @@ def mostrar_menu():
     print("5. finalizar compra")
 
 
+
 def menu_de_cafeteria():
     print("bienvenido a la cafeteria desordenada que desea ordenar?")
     print("1. cafe")
@@ -40,7 +41,3 @@ def mostrar_menu():
 
 
 mostrar_menu()
-
-
-
-
